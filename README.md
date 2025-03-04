@@ -1,62 +1,70 @@
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
+In the project directory, you can run:
 
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-![Travels](https://github.com/user-attachments/assets/691aa5b8-37fe-4331-903f-e1b39ff1adeb)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
-🚗 Yash Tours and Travels - Cab Fare Estimator 🚗
-Yash Tours and Travels is a React-based cab booking system that allows users to select a car, choose their route, and get a transparent fare estimate based on fixed city distances. It offers a seamless fare calculation, multiple vehicle options, and UPI & COD payment methods to enhance user experience.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-✨ Features
-✅ Fixed Fare Calculation – No more random fares! Predefined city distances ensure accurate fare estimation.
-✅ Multiple Vehicle Options – Choose from Wagon-R, Dzire, Ertiga, Innova, Fortuner, Traveller, and Bus.
-✅ Easy Booking Process – Just select your vehicle, choose start & destination cities, and get an instant fare estimate.
-✅ Secure Payment Options – Pay via UPI, Cash on Delivery (COD), or Bank Transfer.
-✅ User-Friendly Interface – Clean, intuitive, and mobile-responsive design.
-✅ Dynamic Pricing Model – Base fare + per km rate for fair and transparent pricing.
-✅ Instant Confirmation – Get a confirmation message upon successful booking.
+### Analyzing the Bundle Size
 
-📌 How It Works
-1️⃣ Select a Car – Choose a vehicle that suits your needs.
-2️⃣ Choose Your Cities – Select the start and destination cities from the available list.
-3️⃣ Calculate Fare – Get an instant fare estimate based on fixed distances.
-4️⃣ Choose a Payment Method – Pay via UPI, Bank Transfer, or COD.
-5️⃣ Confirm Your Booking – Receive an instant confirmation for your ride.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-💻 Technologies Used
-React.js – Frontend framework
-CSS – Styling for a clean UI
-State Management (useState) – To handle car selection, fare calculation, and payments
-UPI Integration – Enables quick online payments
-🛠 Installation & Setup
+### Making a Progressive Web App
 
-1️⃣ Clone the repository:
-git clone https://github.com/yourusername/yash-tours.git
-cd yashtravels
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-2️⃣ Install dependencies:
-npm install
+### Advanced Configuration
 
-3️⃣ Start the development server:
-npm start
-🚀 Contributing
-We welcome contributions! Feel free to fork the repo, create pull requests, or report issues.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-🔗 Check it out & contribute! 🚗✨
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
