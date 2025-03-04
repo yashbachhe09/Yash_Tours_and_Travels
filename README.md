@@ -48,7 +48,7 @@ UPI Integration – Enables quick online payments
 
 1️⃣ Clone the repository:
 git clone https://github.com/yourusername/yash-tours.git
-cd yash-tours
+cd yashtravels
 
 2️⃣ Install dependencies:
 npm install
